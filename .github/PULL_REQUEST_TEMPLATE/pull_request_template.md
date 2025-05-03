@@ -1,28 +1,9 @@
-### 🚀 Cambios propuestos
-<!-- Describe brevemente qué cambios estás haciendo y por qué -->
+## Describe your changes
 
--
+## Issue ticket number and link
 
-### 🧩 Tipo de cambio
-Marca con una `x` lo que aplica:
-
-- [ ] 🐛 Bug fix
-- [ ] ✨ Nueva funcionalidad
-- [ ] ♻️ Refactor
-- [ ] 📝 Documentación
-- [ ] 🚨 Otro (especificar):
-
-### 📋 Checklist
-- [ ] El código compila correctamente
-- [ ] Se agregaron pruebas si corresponde
-- [ ] Se actualizó documentación si aplica
-
-### 🎫 Ticket relacionado
-<!-- ID del ticket o issue, si aplica -->
-
-Closes #
-
-### 🗒️ Notas de la versión
-<!-- Texto que podría ser usado directamente para el changelog/release notes -->
-
--
+## Checklist before requesting a review
+- [ ] I have performed a self-review of my code
+- [ ] If it is a core feature, I have added thorough tests.
+- [ ] Do we need to implement analytics?
+- [ ] Will this be part of a product update? If yes, please write one phrase about this update.
